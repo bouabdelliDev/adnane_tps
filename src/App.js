@@ -3,6 +3,7 @@ import { useState } from 'react'
 // import Valid from './Valid';
 // import Cherche from './Cherche'
 // import List from './List'
+import './index.css'
 import Inscription from './Inscription';
 const vegetables = [{nom:"banane",type:"fruits"},
 {nom:"raisin",type:"fruits"},
